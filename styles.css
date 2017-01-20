@@ -63,11 +63,12 @@ li {
   padding-right: 30px;
   border-style: solid;
   border-width: thin;
-  border-color: gray;
+  border-color: #494949;
 }
 
 li a {
   text-decoration: none;
+  color: #494949;
 }
 
 article p{
